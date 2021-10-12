@@ -1,10 +1,7 @@
 # Self-ReinforcingFurnace(修身炉)
 The Ways and tools to improve yourself(修身炉的可操作实现方式)
 
-
-![修身炉](img/修身炉.jpeg)
-
-
+<img style="width: 50%" align="center" src="img/修身炉.jpeg" />
 
 ## 零、介绍
 
@@ -20,7 +17,10 @@ The Ways and tools to improve yourself(修身炉的可操作实现方式)
 因为这第三类人找不到自己的道，就把杨朱的不拔一毛不取一毫当成了自己的道，去肆意发泄自己的能力，漫画到此戛然而止，全性掌门的答案并未揭晓，但结合无根生的这些分类，全性掌门的意义早已揭晓，**全性掌门存在的真正意义就是替这些迷途的全性门人找回他们各自的道，并且引导他们走上这条路，这里也解答了梁挺感谢无根生的原因，无根生引导梁挺、莫明居士找到了自己的道，并且让他们达成了自己人生的真正目标。**
 
 
-<img src="img/dao.png" alt="dao"  />
+
+<img style="width: 50%" align="center" src="img/dao.png" />
+
+
 
 ### 0.2 “修身炉”的打开方式
 
