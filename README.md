@@ -1,5 +1,15 @@
-# Self-ReinforcingFurnace(修身炉)
+# Self-ReinforcingFurnace
+
+
+
+**修身炉**
+
 The Ways and tools to improve yourself(修身炉的可操作实现方式)
+
+![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/Self-ReinforcingFurnace.svg) ![GitHub stars](https://img.shields.io/github/stars/isLinXu/Self-ReinforcingFurnace.svg) ![GitHub forks](https://img.shields.io/github/forks/isLinXu/Self-ReinforcingFurnace.svg) ![GitHub followers](https://img.shields.io/github/followers/isLinXu.svg)
+ [![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge&style=flat)](https://github.com/isLinXu/project-list)  ![img](https://badgen.net/badge/icon/learning?icon=deepscan&label)![GitHub repo size](https://img.shields.io/github/repo-size/isLinXu/Self-ReinforcingFurnace.svg?style=flat-square) ![GitHub language count](https://img.shields.io/github/languages/count/isLinXu/Self-ReinforcingFurnace)  ![GitHub last commit](https://img.shields.io/github/last-commit/isLinXu/Self-ReinforcingFurnace) ![GitHub](https://img.shields.io/github/license/isLinXu/Self-ReinforcingFurnace.svg?style=flat-square)![img](https://hits.dwyl.com/isLinXu/Self-ReinforcingFurnace.svg)
+
+
 
 <img style="width: 50%" align="center" src="img/修身炉.jpeg" />
 
